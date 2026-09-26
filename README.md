@@ -1,7 +1,7 @@
 # Personal Task Manager
 
 **Project Code:** WST21-PM-2026-SF  
-**Student Name:** Philip Lester Janiola  
+**Student Name:** Phillip Lester Janiola  
 **Course & Year:** BSIT - 2nd Year, Section IT 2-Sec05  
 **Database Used:** Supabase (PostgreSQL)  
 
